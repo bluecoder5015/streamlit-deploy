@@ -1,1 +1,1 @@
-  web: sh setup.sh && streamlit run ml_MSFT.py
+web: sh setup.sh && streamlit run ml_MSFT.py
